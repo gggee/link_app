@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+ul{
+  list-style-type: none;
+  text-align: center;
+}
+
+li{
+  font-size: 24px;
+  display: inline;
+  margin: 10px;
+}
+
+.h1_page{
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  margin-top: 100px;
+}
